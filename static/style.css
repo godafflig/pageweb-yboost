@@ -40,10 +40,13 @@ body:after {
     content:"";
 }
 
-h1{
+h5{
     color: #457b9d;
 }
 
-h5{
+.text1{
+    margin-top: 15vh;
+    margin-left: 3vh;
     color: #457b9d;
+    font-size: xx-large;
 }
