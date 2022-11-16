@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    width:75vw;
+    padding:5px;
+}
+
+
+.titre2{
+    display: flex;
+    justify-content: space-between;
+    width: 20vw;
+}
+
