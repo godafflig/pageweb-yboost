@@ -1,14 +1,49 @@
-.container{
+.header{
     display: flex;
     justify-content: space-between;
-    width:75vw;
+    width:95vw;
     padding:5px;
 }
 
+.titre1{
+    display: flex;
+    justify-content: space-between;
+    width: 5vw;
+}
 
 .titre2{
     display: flex;
     justify-content: space-between;
     width: 20vw;
+    color: #457b9d;
 }
 
+.titre3{
+    display: flex;
+    justify-content: space-between;
+    width: 6vw;
+    height: 6vh;
+}
+
+body {
+    background-color:#e63946;
+}
+
+body:after {
+    top:0;
+    left:0;
+    width:65%;
+    height:100%;
+    position:absolute;
+    z-index:-1;
+    background-color:#f1Faee;
+    content:"";
+}
+
+h1{
+    color: #457b9d;
+}
+
+h5{
+    color: #457b9d;
+}
