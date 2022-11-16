@@ -52,3 +52,12 @@ body:after {
     margin-left: 3vh;
     font-size: 15px;
 }
+
+.buton {
+    margin-left: 1.5vh;
+    width:6vw;
+    height:6vh;
+    color:#457b9d;
+    border-color:#e63946;
+  }
+   
