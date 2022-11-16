@@ -1,27 +1,27 @@
 .header {
     display: flex;
     justify-content: space-between;
-    width: 95vw;
-    padding: 5px;
+    width: 95%;
+    padding: 1%;
 }
 
 .titre1 {
     display: flex;
     justify-content: space-between;
-    width: 5vw;
+    width: 5%;
 }
 
 .titre2 {
     display: flex;
     justify-content: space-between;
-    width: 20vw;
+    width: 20%;
     color: #457b9d;
 }
 
 .titre3 {
     display: flex;
     justify-content: space-between;
-    width: 6vw;
+    width: 6%;
     height: 6vh;
 }
 
@@ -42,24 +42,23 @@ body:after {
 
 .text1 {
 
-    margin-left: 3vh;
+    margin-left: 1%;
     color: #457b9d;
-    font-size: 70px;
+    font-size: 500%;
     display: flex;
-    bottom: 20vw;
 }
 
 .text2 {
     color: #457b9d;
-    margin-left: 3vh;
-    font-size: 15px;
+    margin-left: 1%;
+    font-size: 80%;
     bottom: 20vw;
 }
 
 .buton {
-    margin-left: 1.5vh;
-    width: 6vw;
-    height: 6vh;
+    margin-left: 0.7%;
+    width: 25%;
+    height: 60%;
     color: #457b9d;
     border-color: #e63946;
 }
@@ -68,5 +67,5 @@ body:after {
     display: flex;
     position: absolute;
     right: 17.5%;
-    bottom: 10vw;
+    bottom: 30%;
 }
