@@ -67,6 +67,6 @@ body:after {
 .logo-cube {
     display: flex;
     position: absolute;
-    right: 15vw;
+    right: 17.5%;
     bottom: 10vw;
 }
