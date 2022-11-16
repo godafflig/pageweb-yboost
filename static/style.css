@@ -40,13 +40,15 @@ body:after {
     content:"";
 }
 
-h5{
-    color: #457b9d;
-}
-
 .text1{
     margin-top: 15vh;
     margin-left: 3vh;
     color: #457b9d;
-    font-size: xx-large;
+    font-size: 70px;
+}
+
+.text2{
+    color: #457b9d;
+    margin-left: 3vh;
+    font-size: 15px;
 }
